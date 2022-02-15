@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Text-based RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moses-Ian/jest-another-RPG.git"
+  },
+  "author": "Ian Moses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moses-Ian/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Moses-Ian/jest-another-RPG#readme"
+}
